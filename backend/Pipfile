@@ -9,6 +9,7 @@ django-admin-volt = "*"
 django-ninja = "*"
 psycopg2 = "*"
 django-cors-headers = "*"
+decouple = "*"
 
 [dev-packages]
 
